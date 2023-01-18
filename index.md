@@ -60,7 +60,3 @@ We think that the Lean Canvas of Ash Maurya is an amazing one! We loved the way 
 
 # Who created the Lean Game Canvas?
 We are not serial entrepreneurs, neither researchers nor influencers. We are indies that want to push something that may help others who want to create the best fun and entertaining experiences. We should change how we build video games to make them more profitable. Making games is the most profound thing in the world because fun helps us learn new things, meet new people, dive deep into complex issues, and make life better!
-
-# Need help?
-
-Reach out to me, [David Lichtle](mailto:david.lichtle@jwalab.com).
