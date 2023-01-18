@@ -13,23 +13,23 @@ How to use the Lean Game Canvas?
 
 Inspired by Ash Maurya's Lean Canvas, the Lean Game Canvas should be completed in a set order, especially if this is your first time using this canvas. However, with practice and mastery of these nine mysterious boxes, you can adapt their use to your needs. Here are the different steps:
 
-1- Define your general target with personas and the precise share of players in your target who will be most interested in your game.
+1. Define your general target with personas and the precise share of players in your target who will be most interested in your game.
 
-2- Define what will motivate players to play your game through their habits, behaviors, and expectations of a game.
+2. Define what will motivate players to play your game through their habits, behaviors, and expectations of a game.
 
-3- Define the 3rd central pillar of the canvas: the originality of your game. What makes your game unique and attractive to players? Again, you must be able to write it in a simple sentence.
+3. Define the 3rd central pillar of the canvas: the originality of your game. What makes your game unique and attractive to players? Again, you must be able to write it in a simple sentence.
 
-4- Then define your game and its primary mechanisms. You can also specify the game's overall feel through the graphics and the universe.
+4. Then define your game and its primary mechanisms. You can also specify the game's overall feel through the graphics and the universe.
 
-5- Then define the platform that will host your game and the channels you have to reach these players and inform them about your game.
+5. Then define the platform that will host your game and the channels you have to reach these players and inform them about your game.
 
-6- Define your sources of income linked to the games and any other sources you may have.
+6. Define your sources of income linked to the games and any other sources you may have.
 
-7- Clearly state the expenses involved in developing your game. Be careful not to forget anything and not to underestimate anything.
+7. Clearly state the expenses involved in developing your game. Be careful not to forget anything and not to underestimate anything.
 
-8- Identify the metrics you will monitor to determine if your game is successful. Find engaging and precise metrics for your game.
+8. Identify the metrics you will monitor to determine if your game is successful. Find engaging and precise metrics for your game.
 
-9- Finally, identify, if you have them, the advantages you have that will make your game challenging to reproduce. Think here of your skills, your knowledge, and something complex and unique you have created.
+9. Finally, identify, if you have them, the advantages you have that will make your game challenging to reproduce. Think here of your skills, your knowledge, and something complex and unique you have created.
 
 The Lean Game Canvas is, first and foremost, a working tool. Therefore, it is essential to use it as such, make several drafts, and start again at different stages of your game development, focusing on specific aspects of the canvas or game.
 
