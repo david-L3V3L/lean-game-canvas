@@ -1,4 +1,7 @@
-# Lean Game Canvas informations
+theme: minima
+
+# Lean Game Canvas instructions
+
 
 We built up a canvas inspired by the Lean Canvas of Ash Mauria, which is a derivative of the Business Model Canvas of Alex. Osterwalder. We built it because you cannot make entertainment like any other business, but it still has to be a business.
 
