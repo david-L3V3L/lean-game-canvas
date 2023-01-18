@@ -1,4 +1,3 @@
-theme: minima
 
 # Lean Game Canvas instructions
 
