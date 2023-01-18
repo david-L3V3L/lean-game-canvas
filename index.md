@@ -3,6 +3,8 @@ We built up a canvas inspired by the Lean Canvas of Ash Mauria, which is a deriv
 
 ![Lean Game Canvas Template](Lean game canvas.jpg)
 
+Download the JPG template by [clicking here](Lean game canvas.jpg)
+Download the PDF template by [clicking here](Lean game canvas.pdf)
 
 # What is the Lean Game Canvas?
 
@@ -12,6 +14,10 @@ Like all other canvases of this kind, it is not magic, but it will help you to a
 # How to use the Lean Game Canvas?
 
 Inspired by Ash Maurya's Lean Canvas, the Lean Game Canvas should be completed in a set order, especially if this is your first time using this canvas. However, with practice and mastery of these nine mysterious boxes, you can adapt their use to your needs. Here are the different steps:
+
+![Lean Game Canvas Template](Lean game canvas instructions.jpg)
+Download the JPG instructions by [clicking here](Lean game canvas instructions.jpg)
+Download the PDF insctructions by [clicking here](Lean game canvas instructions.pdf)
 
 1. Define your general target with personas and the precise share of players in your target who will be most interested in your game.
 
