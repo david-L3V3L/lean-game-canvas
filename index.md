@@ -4,6 +4,7 @@ We built up a canvas inspired by the Lean Canvas of Ash Mauria, which is a deriv
 ![Lean Game Canvas Template](Lean game canvas.jpg)
 
 Download the JPG template by [clicking here](Lean game canvas.jpg)
+
 Download the PDF template by [clicking here](Lean game canvas.pdf)
 
 # What is the Lean Game Canvas?
@@ -17,6 +18,7 @@ Inspired by Ash Maurya's Lean Canvas, the Lean Game Canvas should be completed i
 
 ![Lean Game Canvas Template](Lean game canvas instructions.jpg)
 Download the JPG instructions by [clicking here](Lean game canvas instructions.jpg)
+
 Download the PDF insctructions by [clicking here](Lean game canvas instructions.pdf)
 
 1. Define your general target with personas and the precise share of players in your target who will be most interested in your game.
@@ -46,6 +48,14 @@ You don't have to fill in all the boxes on the canvas to benefit from its effect
 It concerns all video game creators who want to put their game's thoughts on paper to obtain a structured synthesis.
 Whether you're an independent designer, a producer in a 100-person studio, a marketing manager for a new studio, or anyone else who wonders if there's a way to make choices and test a concept or game idea to make it more successful, the Lean Game Canvas will help you!
 In addition, you can use the Lean Game Canvas in many ways. For example, it can help you define your game's overall concept in the ideation phase, or it can help you test an evolution of your game that has been running for several months. Then, it will require you to fill in the nine boxes with other information.
+
+# Why the Lean Game Canvas?
+Because, as indie game makers, we faced so many situations when we did not know how to move or change a game, what are the best options? We then started a journey and met many other game makers. They all told us that creating a game is a mysterious part of the job. Most of the answers were, "You just have to be good." Unfortunately, that answer wasn't enough, and we decided to port an existing tool to the game industry.
+
+We think that the Lean Canvas of Ash Maurya is an amazing one! We loved the way it worked on other businesses. We loved the method explained over many pages in the book "The Lean Startup" by Eric Ries. But when it comes to entertainment, nothing stands up as you're not solving any problem. Or at least we are all solving the same problem: boredom. As Netflix's founder Reed Hastings said, "We compete with drinking a bottle of wine. That's a particularly tough one.". It's perfectly accurate in our highly competitive market of games. So, when building a game company, the question is what will make the player choose to play rather than drink a glass of wine with friends and family or watch Netflix (cheers to Reed and Netflix Games).
+
+# Who created the Lean Game Canvas?
+We are not serial entrepreneurs, neither researchers nor influencers. We are indies that want to push something that may help others who want to create the best fun and entertaining experiences. We should change how we build video games to make them more profitable. Making games is the most profound thing in the world because fun helps us learn new things, meet new people, dive deep into complex issues, and make life better!
 
 # Need help?
 
