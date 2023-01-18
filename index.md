@@ -2,6 +2,9 @@
 We built up a canvas inspired by the [Lean Canvas](https://leanstack.com/lean-canvas) of [Ash Maurya](https://twitter.com/ashmaurya), which is a derivative of the [Business Model Canvas](https://www.strategyzer.com/training/courses/mastering-business-testing) of [Alexander Osterwalder](https://twitter.com/AlexOsterwalder). We built it because you cannot make entertainment like any other business, but it still has to be a business.
 We should also put game makers closer to the market, as Ash and Alexander say in other businesses.
 
+We decided to make it under Creative Commons license so that you can use it for free, share it, and improve the way you're making games.
+This work is licensed under the terms of the [Creative Commons Attribution-Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ![Lean Game Canvas Template](Lean game canvas.jpg)
 
 Download the JPG template by [clicking here](Lean game canvas.jpg)
