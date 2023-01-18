@@ -1,6 +1,8 @@
 
 We built up a canvas inspired by the Lean Canvas of Ash Mauria, which is a derivative of the Business Model Canvas of Alex. Osterwalder. We built it because you cannot make entertainment like any other business, but it still has to be a business.
 
+[Image](Lean game canvas.jpg "Lean Game Canvas Template")
+
 # What is the Lean Game Canvas?
 
 It is a 9-panel canvas that will help you put all the elements of your game's thinking on paper to make it a successful project.
@@ -40,4 +42,4 @@ In addition, you can use the Lean Game Canvas in many ways. For example, it can 
 
 # Need help?
 
-Reach out to David Lichtle at L3V3L : david.lichtle@jwalab.com
+Reach out to me, [David Lichtle](mailto:david.lichtle@jwalab.com).
